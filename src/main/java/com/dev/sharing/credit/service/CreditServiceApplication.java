@@ -1,4 +1,4 @@
-package com.dev.sharing.creditservice;
+package com.dev.sharing.credit.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

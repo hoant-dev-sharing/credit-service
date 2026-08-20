@@ -1,4 +1,4 @@
-package com.dev.sharing.creditservice.controller;
+package com.dev.sharing.credit.service.controller;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.Authentication;
